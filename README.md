@@ -10,6 +10,12 @@ The goals of this project is to containerise the application, ensure we can buld
 
 #### Pre-Reqs
 
+Firstly, versions of software being used when this example was built: 
+
+- Windows 11 Home OS Build 22000.1817
+- Podman: 4.5.0
+- DotNet: 7.0.203
+
 ##### Windows Terminal (Optional)
 
  It is also recommended to install the modern "Windows Terminal," which provides a superior user experience to the standard PowerShell and CMD prompts, as well as a WSL prompt, should you want it.
